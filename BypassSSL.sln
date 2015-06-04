@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BypassSSL", "BypassSSL\BypassSSL.csproj", "{F606F88F-C5A5-4A2C-9053-42BF8939B072}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F606F88F-C5A5-4A2C-9053-42BF8939B072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F606F88F-C5A5-4A2C-9053-42BF8939B072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F606F88F-C5A5-4A2C-9053-42BF8939B072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F606F88F-C5A5-4A2C-9053-42BF8939B072}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
